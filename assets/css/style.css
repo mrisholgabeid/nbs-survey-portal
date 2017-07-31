@@ -470,3 +470,14 @@ footer {
 .group, .row {
 	zoom: 1;
 }
+
+
+
+
+
+
+@media screen and (min-width: 1370px) {
+	.container {
+		max-width: 50%;
+	}
+}
